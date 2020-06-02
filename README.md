@@ -53,8 +53,7 @@ X  O  X
 ## How to start 
 
 Import via intellij:
- 1. open the menu "File"
- 2. use the menu item "open..."
- 3. go to the project folder
- 4. click on "open"
- 5. check "use auto import" flag in the just opened window
+ 1. Click on open or import
+ 2. go to the project folder
+ 3. click on "open"
+ 4. check "use auto import" flag in the just opened window

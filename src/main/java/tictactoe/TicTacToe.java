@@ -8,9 +8,9 @@ ACCEPTANCE CRITERIA
 * players take turns taking fields until the game is over
 * a player can take a field if not already taken
 * a game is over when all fields are taken
-* a game is over when all fields in a row are taken by a player
-* a game is over when all fields in a column are taken by a player
-* a game is over when all fields in a diagonal are taken by a player
+* a game is over when a player has taken all fields in a row
+* a game is over when a player has taken all fields in a column
+* a game is over when a player has taken all fields in a diagonal
 
  */
 
